@@ -1,4 +1,4 @@
-Wannabe OSS maintainer interested in tooling, CSS, Simulations and cats. I'm working at [ElevenLabs](https://elevenlabs.io), previously at [dive](https://divecae.com) and [SMS](https://sms-group.com). I also love 3D/shader programming, Typescript, Eslint, and the weirdest state management libraries. I built the [#1 cloud-native fluid simulation platform](https://divecae.com)
+Wannabe OSS maintainer interested in tooling, CSS, Simulations and cats. I'm working at [ElevenLabs](https://elevenlabs.io), previously at [dive](https://divecae.com), [cognigy](https://cognigy.ai) and [SMS](https://sms-group.com). I also love 3D/shader programming, Typescript, Eslint, and the weirdest state management libraries. I built the [#1 cloud-native fluid simulation platform](https://divecae.com)
 Feel free to check out my pinned projects below! Also:
 - [janis.me](https://janis.me)
 - [handlery.dev](https://handlery.dev)
